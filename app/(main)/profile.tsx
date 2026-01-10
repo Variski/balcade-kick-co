@@ -85,9 +85,6 @@ export default function Profile() {
         {/* CREDIT */}
         <View className="border-t border-gray-200 pt-4 mb-6">
           <Text className="text-lg font-bold mb-2">Credit</Text>
-          <Text className="text-gray-700">Maulidya Khairina Balqis (23081010276)</Text>
-          <Text className="text-gray-700">Cantika Berliana Rahmasari (23081010245)</Text>
-          <Text className="text-gray-700">Defina Aulia Salsabila (23081010280)</Text>
           <Text className="text-gray-700">Deva Helal Eka Variski (23081010313)</Text>
         </View>
 
